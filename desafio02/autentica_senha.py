@@ -1,6 +1,6 @@
 #Mecanismos de Cadastro e Autenticação de Senhas – Entendimento Básico dos Princípios de Segurança
 
-
+#COMANDO: Crie um programa em python que seja capaz de realizar o cadastramento de uma senha. A senha deve conter letras maisculas e minusculas, números e caracteres especiais. Caso a senha informada pelo usuário não atenda a esses requisitos, o usuário deve ser notificado. Em seguida, o código deve solicitar que o usuário insira sua senha novamente para validação. Caso a senha seja informada de forma errada por três tentativas, a senha deve ser bloqueada e em seguida deve encerrar o algoritmo.
 
 import re
 
